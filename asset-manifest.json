@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/DZ-auto/static/css/main.4c07bbbe.css",
-    "main.js": "/DZ-auto/static/js/main.9091c366.js",
+    "main.css": "/DZ-auto/static/css/main.7bf94ebd.css",
+    "main.js": "/DZ-auto/static/js/main.94d89bb4.js",
     "static/js/787.66cb4309.chunk.js": "/DZ-auto/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/DZ-auto/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/DZ-auto/index.html",
-    "main.4c07bbbe.css.map": "/DZ-auto/static/css/main.4c07bbbe.css.map",
-    "main.9091c366.js.map": "/DZ-auto/static/js/main.9091c366.js.map",
+    "static/media/checked.svg": "/DZ-auto/static/media/checked.b75ca55e8759862b4083.svg",
+    "main.7bf94ebd.css.map": "/DZ-auto/static/css/main.7bf94ebd.css.map",
+    "main.94d89bb4.js.map": "/DZ-auto/static/js/main.94d89bb4.js.map",
     "787.66cb4309.chunk.js.map": "/DZ-auto/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c07bbbe.css",
-    "static/js/main.9091c366.js"
+    "static/css/main.7bf94ebd.css",
+    "static/js/main.94d89bb4.js"
   ]
 }
